@@ -1,5 +1,5 @@
 {
-  "name": "1206",
+  "name": "1207",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.3",
-    "cors": "^2.8.4",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
     "express-error-handler": "^1.1.0",
